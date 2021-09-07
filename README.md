@@ -4,6 +4,8 @@ Application permettant de récupérer et d'afficher (via un appel API) une liste
 Possibilité d'afficher un nombre défini de pays (via un input range) ainsi que de les classer par continents.
 Projet développé avec React et mis en page avec SCSS 
 
+![Screenshot](screenshot.png)
+
 ## 🚀 Installation
 
 1. git clone ou télécharger le projet
