@@ -10,3 +10,9 @@ Projet développé avec React et mis en page avec SCSS
 
 1. git clone ou télécharger le projet
 2. à la racine du projet, lancer **npm start** 
+
+
+## 💫 Demo
+
+Vidéo de démonstration du site disponible ici:
+`https://drive.google.com/file/d/1CgASOopJozOfaHEMDn0A0qFuaH1kZ6Lc`
