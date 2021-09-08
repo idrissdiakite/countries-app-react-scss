@@ -14,7 +14,11 @@ const Navigation = () => {
           Home
         </NavLink>
 
-        <NavLink exact to="a-propos" activeClassName="nav-active">
+        <NavLink exact to="news" activeClassName="nav-active">
+          News
+        </NavLink>
+
+        <NavLink exact to="about" activeClassName="nav-active">
           About
         </NavLink>
       </div>
