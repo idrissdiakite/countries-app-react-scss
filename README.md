@@ -9,7 +9,9 @@ Projet développé avec React et mis en page avec SCSS
 ## 🚀 Installation
 
 1. git clone ou télécharger le projet
-2. à la racine du projet, lancer **npm start** 
+2. à la racine du projet:
+- **npm i** pour installer les dépendances (nodes modules)
+- **npm start** pour lancer le projet
 
 
 ## 💫 Demo
