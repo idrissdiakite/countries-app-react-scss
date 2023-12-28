@@ -16,4 +16,4 @@ Projet développé avec React et mis en page avec SCSS
 
 ## 💫 Demo
 
-Vidéo de démonstration de l'application disponible [ici](https://drive.google.com/file/d/1CgASOopJozOfaHEMDn0A0qFuaH1kZ6Lc)
+Vidéo de démonstration de l'application disponible [ici](https://youtu.be/jZ5T-vf9BSY?si=wcBLYwaKTNlZ9LK-)
